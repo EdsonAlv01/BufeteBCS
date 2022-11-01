@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.imgCab{
+    width: 100%;
+    height: 300px;
+    padding-top: 70px;
+}
+.masthead {
+    height: 50vh;
+    min-height: 200px;
+    background-image: url('../imagenes/fondoBanner.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+}
+.ServT{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow: 5px 3px 0px rgb(119, 119, 119);
+    font-size: 7vw;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 3px;
+}
+#inicioT{
+    padding: 0px;
+    font-size: 6vh;
+    text-shadow: 7px 5px 0px rgb(0, 0, 0);
+    text-align: left;
+    margin: 10px;
+}
+.caja-texto{
+    width: 100%;
+}
+.carrusel{
+    width: 100%;
+    height: 500px;
+    margin: auto;
+    padding: 10px 20% 0px 20%;
+}
+.h2Text{
+    color: white;
+    margin: 20px;
+    padding: 10px;    
+    text-align: center;
+}
+#h2T{
+    font-size: 5vh;
+}
+.separador{
+    margin: auto;
+}
+.caja-Historia{
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+.cajas{
+    width: 45%;
+    display: inline-block;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+.btnContacto{
+    margin: auto;
+    text-align: center;
+    margin: 50px;
+}
+.btnContacto button{
+    width: 30%;
+    background-color: gray;
+    font-weight: bold;
+    border-radius: 25px;
+    box-shadow:5px 5px 5px rgb(0, 0, 0);
+}
+.servicios{
+    margin: 0 15% 30px 15%;
+}
+.parrafo{
+    text-align:justify;
+    color: white;
+    background-color: rgba(49, 49, 49, 0.733);
+    margin: 20px;
+    box-shadow:5px 5px 5px rgb(0, 0, 0);
+    padding: 130px;
+    border-radius: 15px;
+}
+.pinfo{
+    display: inline;
+    margin: auto;
+    color: rgb(241, 241, 255);
+    font-weight: bold;
+    margin: 20px;
+    background-color: rgba(180, 180, 180, 0.795);
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow:5px 5px 5px rgb(0, 0, 0);
+}
+#historiaC{
+    margin-bottom: 150px;
+}
+.vyp{
+    margin: 0 15% 30px 15%;
+}
+#carruselExp{
+    margin-bottom: 150px;
+}
+.cajasE{
+    color: white;
+    font-weight: bold;
+}
+#imgE{
+    width: 800px;
+}
+
+/*Main*/
+
+/*Pie de Pagina*/
+
+#piePagina{
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(33, 33, 33);
+    font-size: 20px;
+    font-variant: small-caps;
+    color: white;
+    letter-spacing: 2px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/*Pie de Pagina*/
